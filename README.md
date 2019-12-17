@@ -1,4 +1,4 @@
 # JS-BASICS
  Learn JavaScript
 
- ### DONE WITH 1 HOUR
+ ### DONE WITH 1 HOUR / check balanced
