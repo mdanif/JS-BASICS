@@ -1,4 +1,4 @@
-># JavaScript:
+# JavaScript:
 ### What is JavaScript
 JavaScript is one of the most popular programming languages out there in globe. Which orignally developed to run only in browsers due to large community of support it can now run outside of the brower also using JavaScript we can become a front-end developer, back-end developer or a full-stack developer who know both.
  ### What can you do with JavaScript
@@ -17,7 +17,7 @@ In 2009 a very claver engineer called 'Ryan dahl' took the chrome 'V8' engine an
 + The first version of ECMA Script released in 1997
 ```
 
-V1        ES2015/ES6
+V1         ES2015/ES6
 ------------------------------------------------------->
 1997          2015             2016             ...
 
