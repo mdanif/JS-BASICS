@@ -17,10 +17,8 @@ In 2009 a very claver engineer called 'Ryan dahl' took the chrome 'V8' engine an
 + The first version of ECMA Script released in 1997
 ```
 
-V1        ES2015/ES6 <br>
--------------------------------------------------------><br>
+V1        ES2015/ES6
+------------------------------------------------------->
 1997       2015         2016             .....
 
-```      
-      
-      
+```
