@@ -1,6 +1,3 @@
-# JS-BASICS
- Learn JavaScript
-
- ### DONE WITH 1 HOUR / check balanced
+# JavaScript:
++ What is JavaScript
  
- > Do check the balance and continue the flow.
