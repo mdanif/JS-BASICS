@@ -8,7 +8,7 @@ console.log(name);
 // Are case-sensitive
 
 // Single line declaration
-let nameFirst = 'irshad', nameLast = 'ali';
+let firstName = 'irshad', lastName = 'ali';
 
 // Modren and best to use
 let firstName = 'irshad';
