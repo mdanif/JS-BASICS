@@ -1,4 +1,4 @@
-// Object
+// Object - Object literal
 let person = {
     name: 'irshad',
     age: 22
