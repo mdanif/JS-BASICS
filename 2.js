@@ -7,6 +7,9 @@ console.log(name);
 // Cannot contain a space or hyphen (-)
 // Are case-sensitive
 
+// How to declare - should be meaning full and be camel case
+let firstName;
+
 // Single line declaration
 let firstName = 'irshad', lastName = 'ali';
 
