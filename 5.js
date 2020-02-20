@@ -1,4 +1,4 @@
-
+// Object
 let person = {
     name: 'irshad',
     age: 22

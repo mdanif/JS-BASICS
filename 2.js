@@ -10,6 +10,9 @@ console.log(name);
 // How to declare - should be meaning full and be camel case
 let firstName;
 
+// Both are different
+let FirstName;
+
 // Single line declaration
 let firstName = 'irshad', lastName = 'ali';
 

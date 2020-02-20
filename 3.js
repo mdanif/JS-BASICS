@@ -6,4 +6,4 @@ console.log(interestRate);
 // You can't reassign while using const
 const rateInsterest = 0.3;
 rateInsterest = 1;
-console.log(rateInsterest);
+console.log(rateInsterest); // This is Error
