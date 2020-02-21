@@ -1,5 +1,5 @@
 
-let selectedColors = ['red', 'blue']; // Technicaly an array is object
+let selectedColors = ['red', 'blue']; // Technicaly an array is object in JavaScript
 selectedColors[2] = 1;
 console.log(selectedColors.length);
 
