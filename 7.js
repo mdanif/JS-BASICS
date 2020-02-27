@@ -1,6 +1,6 @@
+// Function declearation
+function greet(){
+    console.log('hello World'); // This is statement to terminate with ';'
+}                               // This is function decleartion so no  ';'                     
 
-function greet(name, lastName) {
-    console.log('Hello ' + name + ' ' + lastName); // + for concadinate two strings
-}
-
-greet('irshad', 'ali');
+greet();
